@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me / Dugang's Webpage"
+title                    : "Dugang's Webpage"
 title_separator          : "-"
 name                     : &name "Dugang Liu"
 description              : &description "Ph.D at Shenzhen University"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=JQiDCZUAAAAJ&hl=en"
-  email            :
+  email            : "dugang.ldg@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
