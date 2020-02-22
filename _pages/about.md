@@ -16,4 +16,4 @@ My reaserch focuses on considering the ranking problem from a perspective beyond
 * Generative Model/AE for RecSys
 * Modeling users with social theories in RecSys
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=ZNilE7yDmRXCwjU4sVRLK96rWDvF61peZLx9Aw9jEiw&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=ZNilE7yDmRXCwjU4sVRLK96rWDvF61peZLx9Aw9jEiw'></script>
