@@ -5,7 +5,8 @@ permalink: /schedule/
 author_profile: true
 ---
 
-* We only list some of the international conferences based on our submission candidates, and the schedule information only considers the research track (specifically, for long papers)
+* I only list some of the international conferences based on my submission candidates, and the schedule information only considers the research track (specifically, for long papers).
+* '---' indicates that the corresponding information is not available for this conference.
 * When new schedule information is available, the old schedule information will be replaced.
 
 ----
@@ -54,8 +55,8 @@ author_profile: true
     </tr>
     <tr>
         <td><center><b>CIKM</b></center></td>
-        <td><center><iframe src="http://free.timeanddate.com/countdown/i771n2d3/n3399/cf12/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cacf00/cpc000/pcfff/tcfff/fs100/szw320/szh135/tac000/tpc000/matApril%2024%2C%202020/mac000/mptTime%20has%20passed/mpcf00/iso2020-04-24T23:59:59" allowTransparency="true" frameborder="0" width="141" height="53"></iframe></center></td>
-        <td><center><iframe src="http://free.timeanddate.com/countdown/i771n2d3/n3399/cf12/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cacf00/cpc000/pcfff/tcfff/fs100/szw320/szh135/tac000/tpc000/matMay%2001%2C%202020/mac000/mptTime%20has%20passed/mpcf00/iso2020-05-01T23:59:59" allowTransparency="true" frameborder="0" width="141" height="53"></iframe></center></td>
+        <td><center><iframe src="https://free.timeanddate.com/countdown/i771n2d3/n3399/cf12/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cacf00/cpc000/pcfff/tcfff/fs100/szw320/szh135/tac000/tpc000/matApril%2024%2C%202020/mac000/mptTime%20has%20passed/mpcf00/iso2020-04-24T23:59:59" allowTransparency="true" frameborder="0" width="141" height="53"></iframe></center></td>
+        <td><center><iframe src="https://free.timeanddate.com/countdown/i771n2d3/n3399/cf12/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cacf00/cpc000/pcfff/tcfff/fs100/szw320/szh135/tac000/tpc000/matMay%2001%2C%202020/mac000/mptTime%20has%20passed/mpcf00/iso2020-05-01T23:59:59" allowTransparency="true" frameborder="0" width="141" height="53"></iframe></center></td>
 		<td><center>---</center></td>
 		<td><center>July 03, 2020</center></td>
     </tr>
