@@ -5,4 +5,6 @@ permalink: /codes/
 author_profile: true
 ---
 
-Coming soon...
+* **Spiral of Silence in Recommender Systems** [[Codes]](https://github.com/dgliu/WSDM19_Spiral)
+
+* **Spiral of Silence and Its Application in Recommender Systems** [[Codes]](https://github.com/dgliu/TKDE_Spiral)
