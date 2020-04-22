@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Schedule of International Conferences Related to Recommender Systems"
+title: "Schedule of International Conferences"
 permalink: /schedule/
 author_profile: true
 ---
@@ -48,17 +48,17 @@ author_profile: true
     </tr>
     <tr>
         <td><center><b><a href="https://recsys.acm.org/recsys20/">RecSys</a></b></center></td>
-        <td><center><iframe src="https://free.timeanddate.com/countdown/i771tck1/n3399/cf12/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cacf00/cpc000/pcfff/tcfff/fs100/szw320/szh135/tac000/tpc000/matApril%2027%2C%202020/mac000/mptApril%2027%2C%202020/mpc000/iso2020-04-27T23:59:59" allowTransparency="true" frameborder="0" width="141" height="53"></iframe></center></td>
-        <td><center><iframe src="https://free.timeanddate.com/countdown/i771tck1/n3399/cf12/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cacf00/cpc000/pcfff/tcfff/fs100/szw320/szh135/tac000/tpc000/matMay%2004%2C%202020/mac000/mptMay%2004%2C%202020/mpc000/iso2020-05-04T23:59:59" allowTransparency="true" frameborder="0" width="141" height="53"></iframe></center></td>
+        <td><center><iframe src="https://free.timeanddate.com/countdown/i771tck1/n3399/cf12/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cacf00/cpc000/pcfff/tcfff/fs100/szw320/szh135/tac000/tpc000/matMay%2025%2C%202020/mac000/mptMay%2025%2C%202020/mpc000/iso2020-05-25T23:59:59" allowTransparency="true" frameborder="0" width="141" height="53"></iframe></center></td>
+        <td><center><iframe src="https://free.timeanddate.com/countdown/i771tck1/n3399/cf12/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cacf00/cpc000/pcfff/tcfff/fs100/szw320/szh135/tac000/tpc000/matJune%2001%2C%202020/mac000/mptJune%2001%2C%202020/mpc000/iso2020-06-01T23:59:59" allowTransparency="true" frameborder="0" width="141" height="53"></iframe></center></td>
 		<td><center><b>---</b></center></td>
-		<td><center><b>July 06, 2020</b></center></td>
+		<td><center><b>July 22, 2020</b></center></td>
     </tr>
     <tr>
         <td><center><b><a href="https://cikm2020.org/">CIKM</a></b></center></td>
-        <td><center><iframe src="https://free.timeanddate.com/countdown/i771tck1/n3399/cf12/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cacf00/cpc000/pcfff/tcfff/fs100/szw320/szh135/tac000/tpc000/matApril%2024%2C%202020/mac000/mptApril%2024%2C%202020/mpc000/iso2020-04-24T23:59:59" allowTransparency="true" frameborder="0" width="141" height="53"></iframe></center></td>
-        <td><center><iframe src="https://free.timeanddate.com/countdown/i771tck1/n3399/cf12/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cacf00/cpc000/pcfff/tcfff/fs100/szw320/szh135/tac000/tpc000/matMay%2001%2C%202020/mac000/mptMay%2001%2C%202020/mpc000/iso2020-05-01T23:59:59" allowTransparency="true" frameborder="0" width="141" height="53"></iframe></center></td>
+        <td><center><iframe src="https://free.timeanddate.com/countdown/i771tck1/n3399/cf12/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cacf00/cpc000/pcfff/tcfff/fs100/szw320/szh135/tac000/tpc000/matMay%2008%2C%202020/mac000/mptMay%2008%2C%202020/mpc000/iso2020-05-08T23:59:59" allowTransparency="true" frameborder="0" width="141" height="53"></iframe></center></td>
+        <td><center><iframe src="https://free.timeanddate.com/countdown/i771tck1/n3399/cf12/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cacf00/cpc000/pcfff/tcfff/fs100/szw320/szh135/tac000/tpc000/matMay%2015%2C%202020/mac000/mptMay%2015%2C%202020/mpc000/iso2020-05-15T23:59:59" allowTransparency="true" frameborder="0" width="141" height="53"></iframe></center></td>
 		<td><center><b>---</b></center></td>
-		<td><center><b>July 03, 2020</b></center></td>
+		<td><center><b>July 17, 2020</b></center></td>
     </tr>
     <tr>
         <td><center><b>WSDM</b></center></td>
