@@ -8,4 +8,4 @@ author_profile: true
 
 * **Spiral of Silence and Its Application in Recommender Systems.** *Major Revisions, TKDE.* [PDF] [[Code]](https://github.com/dgliu/TKDE_Spiral)
 
-* **Spiral of Silence in Recommender Systems.** *In Proceedings of WSDM'19.* [[PDF]](https://github.com/dgliu/dgliu.github.io/blob/master/files/WSDM19_Spiral.pdf) [[Code]](https://github.com/dgliu/WSDM19_Spiral)
+* **Spiral of Silence in Recommender Systems.** *In Proceedings of WSDM'19.* [[PDF]](https://dgliu.github.io/files/WSDM19_Spiral.pdf) [[Code]](https://github.com/dgliu/WSDM19_Spiral)
