@@ -61,14 +61,14 @@ author_profile: true
 		<td><center><b>July 17, 2020</b></center></td>
     </tr>
     <tr>
-        <td><center><b>WSDM</b></center></td>
+        <td><center><b><a href="http://www.wsdm-conference.org/2021/">WSDM</a></b></center></td>
         <td><center><b>---</b></center></td>
         <td><center><b>---</b></center></td>
 		<td><center><b>---</b></center></td>
 		<td><center><b>---</b></center></td>
     </tr>
     <tr>
-        <td><center><b>AAAI</b></center></td>
+        <td><center><b><a href="https://aaai.org/Conferences/AAAI-21/">AAAI</a></b></center></td>
         <td><center><b>---</b></center></td>
         <td><center><b>---</b></center></td>
 		<td><center><b>---</b></center></td>
