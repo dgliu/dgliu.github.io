@@ -63,9 +63,9 @@ author_profile: true
     <tr>
         <td><center><b><a href="http://www.wsdm-conference.org/2021/">WSDM</a></b></center></td>
         <td><center><b>---</b></center></td>
-        <td><center><b>---</b></center></td>
+        <td><center><b><iframe src="http://free.timeanddate.com/countdown/i7aalhg2/n724/cf12/cm0/cu4/ct0/cs1/ca0/co1/cr0/ss0/cacf00/cpc000/pcfff/tcfff/fs100/szw320/szh135/tatAugust%2016%2C%202020/tac000/tptAugust%2016%2C%202020/tpc000/iso2020-08-16T23:59:59" allowTransparency="true" frameborder="0" width="147" height="53"></iframe></b></center></td>
 		<td><center><b>---</b></center></td>
-		<td><center><b>---</b></center></td>
+		<td><center><b>October 16, 2020</b></center></td>
     </tr>
     <tr>
         <td><center><b><a href="https://aaai.org/Conferences/AAAI-21/">AAAI</a></b></center></td>
