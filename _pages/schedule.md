@@ -69,10 +69,10 @@ author_profile: true
     </tr>
     <tr>
         <td><center><b><a href="https://aaai.org/Conferences/AAAI-21/">AAAI</a></b></center></td>
-        <td><center><b>---</b></center></td>
-        <td><center><b>---</b></center></td>
-		<td><center><b>---</b></center></td>
-		<td><center><b>---</b></center></td>
+        <td><center><iframe src="https://free.timeanddate.com/countdown/i771tck1/n3399/cf12/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cacf00/cpc000/pcfff/tcfff/fs100/szw320/szh135/tac000/tpc000/matSeptember%2001%2C%202020/mac000/mptSeptember%2001%2C%202020/mpc000/iso2020-09-01T23:59:59" allowTransparency="true" frameborder="0" width="156" height="53"></iframe></center></td>
+        <td><center><iframe src="https://free.timeanddate.com/countdown/i771tck1/n3399/cf12/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cacf00/cpc000/pcfff/tcfff/fs100/szw320/szh135/tac000/tpc000/matSeptember%2009%2C%202020/mac000/mptSeptember%2009%2C%202020/mpc000/iso2020-09-09T23:59:59" allowTransparency="true" frameborder="0" width="156" height="53"></center></td>
+		<td><center><b>November 03-05, 2020 (AoE)</b></center></td>
+		<td><center><b>December 01, 2020</b></center></td>
     </tr>
     <tr>
         <td><center><b>TheWebConf</b></center></td>
