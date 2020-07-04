@@ -10,8 +10,8 @@ author_profile: true
 * Schedule information has been sorted by time.
 * '---' indicates that the corresponding information is not available for this conference.
 * When new schedule information is available, the old schedule information will be replaced.
+---
 
-----
 <table>
     <tr>
         <td><center><b>Conference Name</b></center></td>
@@ -77,7 +77,7 @@ author_profile: true
 		<td><center><b>December 01, 2020</b></center></td>
     </tr>
     <tr>
-        <td><center><b><a href="https://www2021.thewebconf.org/">TheWebConf</b></center></td>
+        <td><center><b><a href="https://www2021.thewebconf.org/">TheWebConf</a></b></center></td>
         <td><center><b>---</b></center></td>
         <td><center><b>---</b></center></td>
 		<td><center><b>---</b></center></td>
