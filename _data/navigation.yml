@@ -9,6 +9,8 @@ main:
   - title: "Schedule"
     url: /schedule/
 
+  - title: "Useful Links"
+    url: /links/
   #- title: "Talks"
   #  url: /talks/    
     
