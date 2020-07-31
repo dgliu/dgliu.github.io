@@ -12,7 +12,7 @@ Wenqiang Chen, Lizhang Zhan, Yuanlong Ci, Minghua Yang, Chen Lin and Dugang Liu.
 Dugang Liu, Pengxing Cheng, Zhenhua Dong, Xiuqiang He, Weike Pan and Zhong Ming.    
 [[PDF]](https://dgliu.github.io/files/SIGIR20_KDCRec.pdf) [[Slides]](https://dgliu.github.io/files/SIGIR20_KDCRec_Slides.pdf) [[Code]](https://github.com/dgliu/SIGIR20_KDCRec)
 
-* **Spiral of Silence and Its Application in Recommender Systems.** *Minor Revision, TKDE.*                    
+* **Spiral of Silence and Its Application in Recommender Systems.** *Accepted by TKDE.*                    
 Chen Lin, Dugang Liu, Hanghang Tong and Yanghua Xiao.            
 [[Preprint]](https://dgliu.github.io/files/TKDE20_Spiral.pdf) [Slides] [[Code]](https://github.com/dgliu/TKDE_Spiral)
 
