@@ -14,6 +14,7 @@ I received my B.S. in mathematics from [Fujian Normal University](http://www.fjn
 My personal research focuses on Counterfactual Machine Learning for Learning-to-Rank Systems, which aims to solve various bias issues existing in the system, such as selection bias, position bias, and popularity bias. It also involves concepts of Stable Learning, Causal Inference, out-of-distribution (OoD) and Missing Not At Random (MNAR). The application domain of my research includes Recommender System and Advertising System. I appreciate simple and effective models, and I want to do work that can receive interest from the industry.
 
 # News
+* Our work "Spiral of Silence and Its Application in Recommender Systems" is accepted by TKDE -- July. 31, 2020.
 * The work I participated in "FLEN: Leveraging Field for Scalable CTR Prediction" is accepted by DLP-KDD 2020 -- July. 07, 2020.                                                                                                                                                                                                     
 * Our work "A General Knowledge Distillation Framework for Counterfactual Recommendation via Uniform Data" is accepted by SIGIR 2020, see u @Xi'an! (if possible) -- April. 23, 2020.
 
