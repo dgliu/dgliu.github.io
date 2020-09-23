@@ -18,4 +18,10 @@ My personal research focuses on Counterfactual Machine Learning for Learning-to-
 * The work I participated in "FLEN: Leveraging Field for Scalable CTR Prediction" is accepted by DLP-KDD 2020 -- July. 07, 2020.                                                                                                                                                                                                     
 * Our work "A General Knowledge Distillation Framework for Counterfactual Recommendation via Uniform Data" is accepted by SIGIR 2020, see u @Xi'an! (if possible) -- April. 23, 2020.
 
+# Professional Services
+* Conference PC Member:
+	* 35th AAAI Conference on Artificial Intelligence
+* Journal Reviewer:
+	* Information Sciences (Elsevier INS)
+
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=ZNilE7yDmRXCwjU4sVRLK96rWDvF61peZLx9Aw9jEiw'></script>
