@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I received my B.S. in mathematics from [Fujian Normal University](http://www.fjnu.edu.cn/) in 2016, and M.S. in computer science from [Xiamen University](https://www.xmu.edu.cn/) in 2019. Currently, I am a first year PhD student with the College of Computer Science and Software Engineering at [Shenzhen University](https://www.szu.edu.cn/), under supervision of [Prof. Zhong Ming](http://www.scholat.com/zming) and [Prof. Weike Pan](http://csse.szu.edu.cn/staff/panwk/index.html).
+I received my B.S. in mathematics from [Fujian Normal University](http://www.fjnu.edu.cn/) in 2016, and M.S. in computer science from [Xiamen University](https://www.xmu.edu.cn/) in 2019. Currently, I am a second year PhD student with the College of Computer Science and Software Engineering at [Shenzhen University](https://www.szu.edu.cn/), under supervision of [Prof. Zhong Ming](http://www.scholat.com/zming) and [Prof. Weike Pan](http://csse.szu.edu.cn/staff/panwk/index.html).
 
 # Research Interest
-My personal research focuses on Counterfactual Machine Learning for Learning-to-Rank Systems, which aims to solve various bias issues existing in the system, such as selection bias, position bias, and popularity bias. It also involves concepts of Stable Learning, Causal Inference, out-of-distribution (OoD) and Missing Not At Random (MNAR). The application domain of my research includes Recommender System and Advertising System. I appreciate simple and effective models, and I want to do work that can receive interest from the industry.
+My personal research focuses on Counterfactual Learning and Causal Learning for Learning-to-Ranking Systems. It also involves concepts of Stable Learning, Causal Inference, Out-of-Distribution (OoD) and Missing Not At Random (MNAR). The application domain of my research includes Recommender System and Advertising System. I appreciate simple and effective models, and I want to do work that can receive interest from the industry. I am currently looking for an internship full of opportunities and challenges.
 
 # News
 * Our work "Spiral of Silence and Its Application in Recommender Systems" is accepted by TKDE -- July. 31, 2020.
@@ -21,7 +21,9 @@ My personal research focuses on Counterfactual Machine Learning for Learning-to-
 # Professional Services
 * Conference PC Member:
 	* 35th AAAI Conference on Artificial Intelligence
+	* The 2021 ACM/SIGAPP Symposium on Applied Computing
 * Journal Reviewer:
 	* Information Sciences (Elsevier INS)
+	* Journal of Intelligent Information Systems (Springer JIIS)
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=ZNilE7yDmRXCwjU4sVRLK96rWDvF61peZLx9Aw9jEiw'></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=ZNilE7yDmRXCwjU4sVRLK96rWDvF61peZLx9Aw9jEiw"></script>
